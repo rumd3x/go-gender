@@ -1,6 +1,11 @@
-# go-gender [![GoDoc](https://godoc.org/github.com/zimmski/go-mutesting?status.png)](https://godoc.org/github.com/zimmski/go-mutesting) [![Build Status](https://travis-ci.org/rumd3x/go-gender.svg?branch=master)](https://travis-ci.org/rumd3x/go-gender) [![codecov](https://codecov.io/gh/rumd3x/go-gender/branch/master/graph/badge.svg)](https://codecov.io/gh/rumd3x/go-gender)
+# go-gender [![GoDoc](https://godoc.org/github.com/zimmski/go-mutesting?status.png)](https://godoc.org/github.com/zimmski/go-mutesting) ![GitHub release](https://img.shields.io/github/release/rumd3x/go-gender.svg) [![Build Status](https://travis-ci.org/rumd3x/go-gender.svg?branch=master)](https://travis-ci.org/rumd3x/go-gender) [![codecov](https://codecov.io/gh/rumd3x/go-gender/branch/master/graph/badge.svg)](https://codecov.io/gh/rumd3x/go-gender) ![License](https://img.shields.io/github/license/rumd3x/go-gender.svg)
+
 
 Find person gender by name. Works better with Brazilian or International Names.
+
+## How it works
+
+This project uses the API from Brazilian Institute of Geography and Statistics (IBGE) to gather data and predict gender statiscally
 
 ## Install
 
