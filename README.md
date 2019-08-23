@@ -8,6 +8,10 @@ Find person gender by name
 go get github.com/rumd3x/go-gender
 ```
 
+## Usage
+
+Read the (https://godoc.org/github.com/rumd3x/go-gender)[GoDoc] for all available methods and their description.
+
 ## Examples
 
 ```go
@@ -19,7 +23,19 @@ if err != nil {
 }
 
 if !jenGender.Equals(brianGender) {
-    fmt.Println("Names Jennifer and Brian are of opposite gender")
+    fmt.Println("Names Jennifer and Brian are not of the same gender")
+}
+
+if jenGender.Female() {
+    fmt.Println("Jennifer is a female")
+}
+
+if brianGender.Female() {
+    fmt.Println("Brian is a Male")
+}
+
+if !brianGender.Unisex() {
+    fmt.Println("Brian is not a Unisex name")
 }
 
 fmt.Printf("Name Brian is of gender %s", brianGender.String())
