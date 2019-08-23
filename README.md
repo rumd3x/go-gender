@@ -1,6 +1,6 @@
 # go-gender [![GoDoc](https://godoc.org/github.com/zimmski/go-mutesting?status.png)](https://godoc.org/github.com/zimmski/go-mutesting)
 
-Find person gender by name
+Find person gender by name. Works better with Brazilian or International Names.
 
 ## Install
 
@@ -10,7 +10,7 @@ go get github.com/rumd3x/go-gender
 
 ## Usage
 
-Read the (GoDoc)[https://godoc.org/github.com/rumd3x/go-gender] for all available methods and their description.
+Read the [GoDoc](https://godoc.org/github.com/rumd3x/go-gender) for all available methods and their description.
 
 ## Examples
 
