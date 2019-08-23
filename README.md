@@ -1,4 +1,4 @@
-# go-gender [![GoDoc](https://godoc.org/github.com/zimmski/go-mutesting?status.png)](https://godoc.org/github.com/zimmski/go-mutesting)
+# go-gender [![GoDoc](https://godoc.org/github.com/zimmski/go-mutesting?status.png)](https://godoc.org/github.com/zimmski/go-mutesting) [![Build Status](https://travis-ci.org/rumd3x/go-gender.svg?branch=master)](https://travis-ci.org/rumd3x/go-gender) [![codecov](https://codecov.io/gh/rumd3x/go-gender/branch/master/graph/badge.svg)](https://codecov.io/gh/rumd3x/go-gender)
 
 Find person gender by name. Works better with Brazilian or International Names.
 
