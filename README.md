@@ -30,7 +30,7 @@ if jenGender.Female() {
     fmt.Println("Jennifer is a female")
 }
 
-if brianGender.Female() {
+if brianGender.Male() {
     fmt.Println("Brian is a Male")
 }
 
@@ -38,5 +38,5 @@ if !brianGender.Unisex() {
     fmt.Println("Brian is not a Unisex name")
 }
 
-fmt.Printf("Name Brian is of gender %s", brianGender.String())
+fmt.Printf("Name Brian is of gender %s", brianGender.String()) // Outputs: Name Brian is of gender Male
 ```
