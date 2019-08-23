@@ -1,4 +1,4 @@
-# go-gender
+# go-gender [![GoDoc](https://godoc.org/github.com/zimmski/go-mutesting?status.png)](https://godoc.org/github.com/zimmski/go-mutesting)
 
 Find person gender by name
 
@@ -10,7 +10,7 @@ go get github.com/rumd3x/go-gender
 
 ## Usage
 
-Read the (https://godoc.org/github.com/rumd3x/go-gender)[GoDoc] for all available methods and their description.
+Read the (GoDoc)[https://godoc.org/github.com/rumd3x/go-gender] for all available methods and their description.
 
 ## Examples
 
