@@ -1,7 +1,12 @@
-# go-gender [![GoDoc](https://godoc.org/github.com/zimmski/go-mutesting?status.png)](https://godoc.org/github.com/zimmski/go-mutesting) ![GitHub release](https://img.shields.io/github/release/rumd3x/go-gender.svg) [![Build Status](https://travis-ci.org/rumd3x/go-gender.svg?branch=master)](https://travis-ci.org/rumd3x/go-gender) [![codecov](https://codecov.io/gh/rumd3x/go-gender/branch/master/graph/badge.svg)](https://codecov.io/gh/rumd3x/go-gender) ![License](https://img.shields.io/github/license/rumd3x/go-gender.svg)
-
+# go-gender
 
 Find person gender by name. Works better with Brazilian or International Names.
+
+[![GoDoc](https://godoc.org/github.com/rumd3x/go-gender?status.png)](https://godoc.org/github.com/rumd3x/go-gender)
+![GitHub release](https://img.shields.io/github/release/rumd3x/go-gender.svg)
+[![Build Status](https://travis-ci.org/rumd3x/go-gender.svg?branch=master)](https://travis-ci.org/rumd3x/go-gender)
+[![codecov](https://codecov.io/gh/rumd3x/go-gender/branch/master/graph/badge.svg)](https://codecov.io/gh/rumd3x/go-gender)
+![License](https://img.shields.io/github/license/rumd3x/go-gender.svg)
 
 ## How it works
 
