@@ -34,6 +34,7 @@ func FindBySex(name, gender string) (int, error) {
 	if err != nil {
 		return 0, err
 	}
+	defer response.Body.Close()
 
 	responseIBGE := IBGEResponse{}
 	err = json.NewDecoder(response.Body).Decode(&responseIBGE)

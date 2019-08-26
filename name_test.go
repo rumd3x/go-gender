@@ -5,7 +5,7 @@ import "testing"
 func TestGetGender(t *testing.T) {
 	tests := map[string]*Gender{
 		"Edmur":    Male(),
-		"Joao":     Male(),
+		"João":     Male(),
 		"Maria":    Female(),
 		"Darci":    Unisex(),
 		"Lucas":    Male(),
